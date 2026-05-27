@@ -1,0 +1,6 @@
+{
+  "name": "LocalSync",
+  "description": "A neighborhood-scale fintech and retail ecosystem for local families and shopkeepers featuring live voice stocking, digital credit Khata and instant UPI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
